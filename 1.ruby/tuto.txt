@@ -1,0 +1,9 @@
+irb
+gem install launchy
+gem install httparty
+gem install nokogiri
+gem install pry
+gem install awesome_print
+
+http://rubymonk.com/learning/books
+http://tryruby.org
